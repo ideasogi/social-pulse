@@ -84,7 +84,7 @@ social-pulse/
 
 ## Author
 
-**bsogdiana** — learning data analysis and building projects that connect data to real marketing decisions.
+**ideasogi** — learning data analysis and building projects that connect data to real marketing decisions.
 
 ---
 
